@@ -1,1 +1,1 @@
-![2D Histogram]([https://example.com/path-to-image.png](https://github.com/Mhimanshu18/Cern_Root_Tutorials/blob/main/2dhist.pdf))
+![2D Histogram](https://github.com/Mhimanshu18/Cern_Root_Tutorials/blob/main/c1.png)
